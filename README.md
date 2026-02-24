@@ -1,2 +1,2 @@
 # fictional-umbrella
-some popular vimrc bashrc etc
+some popular vimrc bashrc tmux etc configs
